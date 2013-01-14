@@ -32,3 +32,8 @@ Amount    | Ingredient      | Addition
 1 tbsp    | Sliced Ginger   | boil
 2 tbsp    | Brown Sugar     | boil
 2         | Cinnamon Sticks | secondary
+
+Tasting Notes
+-------------
+Smells of strong clove and ginger with cinammon undertones.  Head is dissapointing but may be due to 
+improperly sanitized bottles.  Definetly some alcohol presence underneath the malty backone.
