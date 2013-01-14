@@ -1,4 +1,4 @@
-# Fornicate The Constable Double (dry-hopped) IPA
+# "Fornicate The Constable" Double (dry-hopped) IPA
 
 Brew Date: 1/19/13  
 Original Gravity: ??  
