@@ -1,9 +1,9 @@
 # Gingerbread Porter
 
-Brew Date: 9/8/12
-Original Gravity: 1.064
-Final Gravity: 1.020
-Boil: 70 mins
+Brew Date: 9/8/12  
+Original Gravity: 1.064  
+Final Gravity: 1.020  
+Boil: 70 mins  
 
 Grains
 ---------
