@@ -11,7 +11,7 @@ Amount | Variety
 ------ | -------
 9 lbs  | Pale Malt Extract
 1 lbs  | American Chocolate
-12 oz  | Biritsh Crystal 77
+12 oz  | British Crystal 77
 
 Hops
 ----
