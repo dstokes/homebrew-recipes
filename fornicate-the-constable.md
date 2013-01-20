@@ -1,7 +1,7 @@
 # "Fornicate The Constable" Double (dry-hopped) IPA
 
 Brew Date: 1/19/13  
-Original Gravity: ??  
+Original Gravity: 1.076  
 Final Gravity: ??    
 Boil: 60 mins  
 
