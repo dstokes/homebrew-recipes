@@ -2,7 +2,7 @@
 
 Brew Date: 1/19/13  
 Original Gravity: 1.076  
-Final Gravity: ??    
+Final Gravity: 1.023    
 Boil: 60 mins  
 
 Grains
@@ -37,3 +37,4 @@ Amount  | Variety
 Notes
 -----
 * Substituted Seven C's for Centennial hops
+* Wort had solid grapefruit flavor and good amount of bitterness before secondary
