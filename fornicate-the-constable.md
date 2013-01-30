@@ -2,7 +2,7 @@
 
 Brew Date: 1/19/13  
 Original Gravity: 1.076  
-Final Gravity: 1.023    
+Final Gravity: 1.020  
 Boil: 60 mins  
 
 Grains
