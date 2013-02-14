@@ -17,15 +17,15 @@ Amount  | Variety
 Hops
 ----
 
-Amount  | Variety    | Addition  | Type
-------- | ---------- | --------- | ----
-1.25 oz | Columbus   | 60 mins   | Pellets
-1.25 oz | Seven C's  | 30 mins   | Pellets
-2 oz    | Simcoe     | 10 mins   | Pellets
-2 oz    | Seven C's  | 10 mins   | Pellets
-1 oz    | Simcoe     | Secondary | Leaves
-0.5 oz  | Centennial | Secondary | Leaves
-0.5 oz  | Chinook    | Secondary | Leaves
+Amount  | Variety    | Addition  | Type    | Duration
+------- | ---------- | --------- | ------- | --------
+1.25 oz | Columbus   | 60 mins   | Pellets |
+1.25 oz | Seven C's  | 30 mins   | Pellets |
+2 oz    | Simcoe     | 10 mins   | Pellets |
+2 oz    | Seven C's  | 10 mins   | Pellets |
+1 oz    | Simcoe     | Secondary | Leaves  | 7 days
+0.5 oz  | Centennial | Secondary | Leaves  | 7 days
+0.5 oz  | Chinook    | Secondary | Leaves  | 7 days
 
 Yeast
 -----
